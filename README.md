@@ -3,7 +3,15 @@
 
 [![Blog](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](###)
 
-![ Sakai GitHub stats  ](https://github-readme-stats.vercel.app/api?username=Sakai&show_icons=true&theme=radical) 
+![ Sakai GitHub stats  ](https://github-readme-stats.vercel.app/api?username=Sakai&show_icons=true&theme=radical)
+
+
+<a href="https://github.com/sakai244/HTML-CSS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/sakai244/Meu_Primeiro_site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 
@@ -19,3 +27,5 @@
 
 
 ## Estoy aprendiendo los lenguajes de programación
+
+
