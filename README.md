@@ -1,15 +1,12 @@
+![Fogos](https://i.gifer.com/origin/c5/c57eb9be66e9905616a2d7f5a723ed03_w200.webp)![Fogos](https://i.gifer.com/origin/c5/c57eb9be66e9905616a2d7f5a723ed03_w200.webp)![Fogos](https://i.gifer.com/origin/c5/c57eb9be66e9905616a2d7f5a723ed03_w200.webp)![Fogos](https://i.gifer.com/origin/c5/c57eb9be66e9905616a2d7f5a723ed03_w200.webp)![Fogos](https://i.gifer.com/origin/c5/c57eb9be66e9905616a2d7f5a723ed03_w200.webp)
+
+
+
 <div id="badges" align="center">
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
 
 
-<<<<<<< HEAD
-    <video width="640" height="480" controls>
-        <source src="Free Universe Stars Video Gif Animated Zoom Virtual Background.mp4" type="video/mp4">
-        
-    </video>
-
-=======
->>>>>>> 069926ead524053d33d1a62c36b93e176db25500
+    
 <h1>
   Hola soy Sakai. ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -27,6 +24,18 @@
 
 <div id="badges" align="center">
  <h1>Lenguajes 100% hechas <h1>
-
    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![PATO](https://i.gifer.com/origin/f1/f15f8eb62d7e7cad9d365b9292922fa8_w200.webp)
+
+
+![danças](https://i.gifer.com/origin/a4/a4ce6076f49d4f358a2f7cd5fa35c7f1_w200.webp) ![]() 
+
+
+
+
+
+
+                                                                                                                                            
