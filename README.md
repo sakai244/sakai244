@@ -2,11 +2,14 @@
 <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=noelianav91.noelianav91&color=00cf00" alt=""/>
 
 
+<<<<<<< HEAD
     <video width="640" height="480" controls>
         <source src="Free Universe Stars Video Gif Animated Zoom Virtual Background.mp4" type="video/mp4">
         
     </video>
 
+=======
+>>>>>>> 069926ead524053d33d1a62c36b93e176db25500
 <h1>
   Hola soy Sakai. ¡Encantado de conocerte!
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
