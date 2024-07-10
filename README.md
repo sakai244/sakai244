@@ -3,7 +3,7 @@
 
 [![Blog](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](###)
 
-![ Sakai GitHub stats  ](https://starchart.cc/{username}/{repo}.svg)
+(https://starchart.cc/{username}/{repo}.svg)
 
 
 
