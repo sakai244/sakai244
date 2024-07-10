@@ -17,5 +17,8 @@
 ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+<div id="badges" align="center">
+ <h1>Lenguajes 100% hechas <h1>
 
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
