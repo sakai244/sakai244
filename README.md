@@ -26,7 +26,7 @@
 <div id="badges" align="center">
  <h1>Lenguajes 100% hechas <h1>
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
+![Itachi](https://i.gifer.com/origin/f1/f15f8eb62d7e7cad9d365b9292922fa8_w200.webp) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 ![danças](https://i.gifer.com/origin/a4/a4ce6076f49d4f358a2f7cd5fa35c7f1_w200.webp) ![]() 
