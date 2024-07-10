@@ -20,6 +20,6 @@
 
 
 
-## Estoy aprendiendo los lenguajes de programación
+## Estoy aprendiendo las lenguajes de programación
 
 
