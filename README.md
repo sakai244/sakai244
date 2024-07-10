@@ -16,7 +16,7 @@
 
 👋 Hola, soy Sakai.📚 Estoy aprendiendo programación con la orientación del Curso en Vídeo de Gustavo Guanabara. ❤️Estoy apasionado por el área de programación y llevo estudiando 6 meses.
 
-![Itachi](https://i.gifer.com/origin/f1/f15f8eb62d7e7cad9d365b9292922fa8_w200.webp) 
+
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
