@@ -3,8 +3,7 @@
 
 [![Blog](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](###)
 
-[(https://starchart.cc/{username}/{repo}.svg)](https://github-readme-stats.vercel.app/api/top-langs/?)
-
+https://github-readme-stats.vercel.app/api/top-langs/?
 
 
 
