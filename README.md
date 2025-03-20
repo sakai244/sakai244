@@ -14,7 +14,7 @@
 </h1>
 
 
-👋 Hola, soy Sakai.📚 Estoy aprendiendo programación con la orientación del Curso en Vídeo de Gustavo Guanabara. ❤️Estoy apasionado por el área de programación y llevo estudiando 6 meses.
+
 
 
 
